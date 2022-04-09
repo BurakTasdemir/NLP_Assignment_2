@@ -1,1 +1,3 @@
 # NLP_Assignment_2
+In this assignment, I have examined collocations in bigram form using 3 hypothesis testing methods. The methods are student’s t-test, chi-square test and likelihood ratio test. In the whole work, I have used the corpus of the concatenation of seven novels of Charles Dickens: Bleak House, David Copperfield, Great Expectations, A Tale of Two Cities, Hard Times, Oliver Twist and The Pickwick Papers.
+Furthermore, via this assignment, I have learned the importance of collocations, methods used for hunting collocations and different approaches gathered from these methods. I believe that, statistical approaches towards collocations are helpful for depthful search in machine translation problems.
